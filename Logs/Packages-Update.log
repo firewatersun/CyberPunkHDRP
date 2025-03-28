@@ -64,3 +64,15 @@ The following packages were updated:
   com.unity.visualeffectgraph from version 7.1.6 to 17.0.3
 The following packages were removed:
   com.unity.textmeshpro@2.0.1
+
+=== Fri Feb  7 09:56:20 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.multiplayer.center@1.0.0
+The following packages were updated:
+  com.unity.ai.navigation from version 2.0.3 to 2.0.5
+  com.unity.collab-proxy from version 2.4.4 to 2.6.0
+  com.unity.recorder from version 5.1.1 to 5.1.2

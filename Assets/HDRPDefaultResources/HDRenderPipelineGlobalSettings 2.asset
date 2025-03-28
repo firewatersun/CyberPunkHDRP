@@ -980,6 +980,10 @@ MonoBehaviour:
           type: 3}
         m_DofCombineCS: {fileID: 7200000, guid: d9b940a90a2d0884f94990a0dde43a53,
           type: 3}
+        m_DofComputeSlowTilesCS: {fileID: 7200000, guid: b89f86a76de81ee42ae16daad78eb382,
+          type: 3}
+        m_DofComputeApertureShapeCS: {fileID: 7200000, guid: dd5acecb27e20334fa3be332e85172df,
+          type: 3}
         m_MotionBlurMotionVecPrepCS: {fileID: 7200000, guid: ed9438fa777911d48933402087203b15,
           type: 3}
         m_MotionBlurGenTileCS: {fileID: 7200000, guid: 336e1fdbb3a1b8647b06208415f87804,
